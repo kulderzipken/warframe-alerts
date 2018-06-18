@@ -1,5 +1,7 @@
 # warframe-alerts
-mail and text warframe alerts
+mails and text warframe alerts from items you want!
+
+for this you will need to set-up your own gmail smtp adress and a twilio account for text messages.Put the credentials from these accounts in a separate credentials.py file.
 
 # example credentials file:
 
