@@ -8,6 +8,7 @@ When the desired item is in alert an email and a text message is sent with gmail
 
 # warframe-alerts
 mails and text warframe alerts from items you want!
+The parse_warframe.py script parses this website : https://deathsnacks.com. Then it checks wether the item I want is in alert or not. Every time a wanted item is in the list send_emails.py and send_sms.py are used to send the information.
 
 for this you will need to set-up your own gmail smtp adress and a twilio account for text messages.Put the credentials from these accounts in a separate credentials.py file.
 
