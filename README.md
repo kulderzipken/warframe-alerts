@@ -1,7 +1,7 @@
 # warframe-alerts
 mail and text warframe alerts
 
-example credentials file:
+# example credentials file:
 
 account_sid= 'akjamjamjamjamjdfihihiofa484e848'
 
