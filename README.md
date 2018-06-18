@@ -1,3 +1,4 @@
+![warframe](https://user-images.githubusercontent.com/32396421/41535981-7fae1e7a-7304-11e8-9387-52c91962f01f.jpg)
 # intro
 Warframe is a third-person, co-op focused action game.
 In warframe there are time-limited alerts that grant you certain items.
