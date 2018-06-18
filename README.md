@@ -1,3 +1,10 @@
+# intro
+Warframe is a third-person, co-op focused action game.
+In warframe there are time-limited alerts that grant you certain items.
+There are websites and mobile apps where alerts can be watched but this is boring and time consuming.
+So this script is made to watch the warframe alerts and looks for the item you want.
+When the desired item is in alert an email and a text message is sent with gmail and twilio.
+
 # warframe-alerts
 mails and text warframe alerts from items you want!
 
