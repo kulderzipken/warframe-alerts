@@ -24,3 +24,10 @@ my_twilio = '+8464864884'
 my_email = 'example_email@gmail.com'
 
 my_passord = 'examplepassword'
+
+# future plans
+- fine-tune it so it won't send same alerts twice (now this is kinda solved with time.sleep())
+
+- expand this to work for multiple users that want different items
+
+- turn this into a webapp
